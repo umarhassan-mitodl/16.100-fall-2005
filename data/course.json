@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "legacy_uid": "d99e5f64-397a-c99e-61b6-be8626564380",
+  "instructors": {
+    "content": [
+      "d5ba2666-9e7a-a146-c42b-2ed1b9e1ff70"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d7cb9a6d-cebc-796c-85e9-6d971b9eb10e",
+    "website": "16-100-aerodynamics-fall-2005"
+  },
+  "course_title": "Aerodynamics",
+  "course_description": "This course extends fluid mechanic concepts from Unified Engineering to the aerodynamic performance of wings and bodies in sub/supersonic regimes. 16.100 generally has four components: subsonic potential flows, including source/vortex panel methods; viscous flows, including laminar and turbulent boundary layers; aerodynamics of airfoils and wings, including thin airfoil theory, lifting line theory, and panel method/interacting boundary layer methods; and supersonic and hypersonic airfoil theory. Course material varies each year depending upon the focus of the design problem.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.100",
+  "course_image_thumbnail": {
+    "content": "5ad43d1c-3ad9-3484-e13c-f137a321c695",
+    "website": "16-100-aerodynamics-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "75971479-c544-4832-8e31-c3f87651b389",
+  "site_short_id": "16.100-fall-2005",
+  "site_url_path": "courses/16-100-aerodynamics-fall-2005",
+  "title": "Course Metadata"
+}
