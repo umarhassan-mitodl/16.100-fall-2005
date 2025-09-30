@@ -5,6 +5,8 @@ description: This file contains the project assigment for comparison of analytic
 file: /courses/16-100-aerodynamics-fall-2005/300202d9db6b61b9a217f9d168aa7cc4_proj2.pdf
 file_size: 87637
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

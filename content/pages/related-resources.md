@@ -2,6 +2,8 @@
 content_type: page
 description: Related resources contains useful links to aid the course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -9,20 +11,20 @@ uid: 9f06889a-6e35-a585-11ed-1215e3884764
 ---
 ## Useful Links
 
-{{% resource_link "d6026c66-1ed8-43c3-b323-b7009b1e0b60" "Online Conversion" %}}
+[Online Conversion](http://www.onlineconversion.com/)
 
-{{% resource_link "8b1bcf84-124e-489d-953b-6eb88ac9521a" "Standard Atmospheric Computations" %}}
+[Standard Atmospheric Computations](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/atmos/stdatm.html)
 
-{{% resource_link "5615eb4b-44fb-4001-9162-9b6f737e40bd" "XFOIL: Subsonic Airfoil Development System" %}}
+[XFOIL: Subsonic Airfoil Development System](http://web.mit.edu/drela/Public/web/xfoil/)
 
-{{% resource_link "01b85761-4694-4eca-be7d-d1588e78b101" "Fluid Mechanics Movies" %}}
+[Fluid Mechanics Movies](https://web.archive.org/web/20150411011540/http://www.xmarks.com/s/site/users.rowan.edu/~orlins/fm/movies.html)
 
 ## Project Links
 
-{{% resource_link "d2ed4994-17fe-4ea5-bca7-dc89e93cf195" "The Wing is the Thing" %}}
+[The Wing is the Thing](http://www.twitt.org/)
 
-{{% resource_link "b9024d36-2bb8-45b1-adc6-5d1ad149c1a5" "Aircraft Design Information Sources: Advanced Design / Unusual Concepts" %}}
+[Aircraft Design Information Sources: Advanced Design / Unusual Concepts](https://web.archive.org/web/20190330094807/http://www.dept.aoe.vt.edu/~mason/Mason/ACiADblended.html)
 
-{{% resource_link "da1cda04-d421-459e-ba06-1e31ade57ee0" "Tailless Aircraft" %}}
+[Tailless Aircraft](http://www.desktopaero.com/appliedaero/configuration/tailless.html)
 
-{{% resource_link "b611aee5-92ab-4047-bb3a-b74dde1f0ef0" "AVL" %}}
+[AVL](http://web.mit.edu/drela/Public/web/avl/)

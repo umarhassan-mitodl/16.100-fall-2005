@@ -2,6 +2,8 @@
 content_type: page
 description: Calendar section contains the topics for the lectures and key dates for
   the submission of projects, assignments etc.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

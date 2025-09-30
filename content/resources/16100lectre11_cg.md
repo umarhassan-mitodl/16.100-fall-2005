@@ -4,6 +4,8 @@ description: This file contains notes for CQ.
 file: /courses/16-100-aerodynamics-fall-2005/d2b1d8185409e9829f6e0a3225bf9a0c_16100lectre11_cg.pdf
 file_size: 113452
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

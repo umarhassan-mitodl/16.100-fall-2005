@@ -5,6 +5,8 @@ description: 'This file contains exercise based on readings section for boundary
 file: /courses/16-100-aerodynamics-fall-2005/533f5b54e7eb73bfaa690d370b2a8439_hw7.pdf
 file_size: 156024
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

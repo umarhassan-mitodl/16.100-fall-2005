@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-100-aerodynamics-fall-2005/b01096672f4e94682b4fecfffaa1f1d0_16100lectre12_cg.pdf
 file_size: 194168
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
