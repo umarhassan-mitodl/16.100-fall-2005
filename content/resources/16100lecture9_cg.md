@@ -4,8 +4,6 @@ description: This file contains notes for brequet range equation.
 file: /courses/16-100-aerodynamics-fall-2005/34e7705f6bd8f35c05e14c4c72388ca1_16100lecture9_cg.pdf
 file_size: 85264
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

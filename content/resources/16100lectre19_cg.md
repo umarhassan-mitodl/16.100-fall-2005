@@ -4,8 +4,6 @@ description: This file contains notes for trefftz plane analysis of induced drag
 file: /courses/16-100-aerodynamics-fall-2005/a50f5b9f91c0ad125d141e041e086167_16100lectre19_cg.pdf
 file_size: 101013
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

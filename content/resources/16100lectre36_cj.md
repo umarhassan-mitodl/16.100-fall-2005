@@ -4,8 +4,6 @@ description: This file contains notes for subsonic small disturbance potential f
 file: /courses/16-100-aerodynamics-fall-2005/af9b1611981fefacaa632f05e37ada4b_16100lectre36_cj.pdf
 file_size: 32135
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

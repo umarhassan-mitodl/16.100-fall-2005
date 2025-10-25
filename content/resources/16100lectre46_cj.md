@@ -4,8 +4,6 @@ description: This file contains notes for prandtl-meyer expansion waves.
 file: /courses/16-100-aerodynamics-fall-2005/a3635cea7b71616c3611e0f5d9183964_16100lectre46_cj.pdf
 file_size: 34537
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

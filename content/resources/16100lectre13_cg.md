@@ -4,8 +4,6 @@ description: This file contains notes for kutta condition.
 file: /courses/16-100-aerodynamics-fall-2005/46e304e57667f872d9f40f0dd0836bd1_16100lectre13_cg.pdf
 file_size: 117149
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

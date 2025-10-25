@@ -2,8 +2,6 @@
 content_type: page
 description: Syllabus section contains course description, objectives, grading criteria,
   grading scores, exams and assignments information.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

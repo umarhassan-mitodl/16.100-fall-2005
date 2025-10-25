@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Projects section contains the list of projects used in the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -5,8 +5,6 @@ description: This file contains the project assignment for transonic effects on 
 file: /courses/16-100-aerodynamics-fall-2005/4cfd80a6342012987e0e8bd8e2af23a1_proj4.pdf
 file_size: 62583
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This file contains solutions for kutta condition.
 file: /courses/16-100-aerodynamics-fall-2005/6300866514469c519aefd54ba12c2e36_16100lectre14_cg.pdf
 file_size: 105726
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

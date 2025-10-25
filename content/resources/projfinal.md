@@ -4,8 +4,6 @@ description: This file contains the details about the assignment on redesign of 
 file: /courses/16-100-aerodynamics-fall-2005/906f90533e796245df88e34950cbb7d3_projfinal.pdf
 file_size: 79455
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
